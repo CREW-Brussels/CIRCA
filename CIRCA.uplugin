@@ -1,0 +1,28 @@
+{
+	"FileVersion": 1,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "CIRCA",
+	"Description": "Media Player for recorded takes made with the CREW XR Framework",
+	"Category": "Other",
+	"CreatedBy": "CREW",
+	"CreatedByURL": "http://crew.brussels",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+
+	],
+	"Plugins": [
+		{
+			"Name": "CREWNetworkFramework",
+			"Enabled": true
+		},
+		{
+			"Name": "CREWXRFramework",
+			"Enabled": true
+		},
+	]
+}
