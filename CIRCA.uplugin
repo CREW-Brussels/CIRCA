@@ -4,7 +4,7 @@
 	"VersionName": "1.0",
 	"FriendlyName": "CIRCA",
 	"Description": "Media Player for recorded takes made with the CREW XR Framework",
-	"Category": "Other",
+	"Category": "CREW",
 	"CreatedBy": "CREW",
 	"CreatedByURL": "http://crew.brussels",
 	"DocsURL": "",
@@ -16,10 +16,6 @@
 
 	],
 	"Plugins": [
-		{
-			"Name": "CREWNetworkFramework",
-			"Enabled": true
-		},
 		{
 			"Name": "CREWXRFramework",
 			"Enabled": true
