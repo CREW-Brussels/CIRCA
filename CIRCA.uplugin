@@ -16,9 +16,6 @@
 
 	],
 	"Plugins": [
-		{
-			"Name": "CREWXRFramework",
-			"Enabled": true
-		},
+
 	]
 }
