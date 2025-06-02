@@ -39,11 +39,10 @@ In your scene that will be recorded:
 ![Screenshot 2025-04-02 154344](https://github.com/user-attachments/assets/bd06c6b0-39e0-413e-bdb1-a2f8e3a33f5a)
 
 ***
-> Additional note: If you are using VR, and our CREW XR Template (link coming), you should follow the next steps. It allows using VR Players, at the same time as using settings to record our performance with CIRCA.
+> Additional note: If you are using VR, and our [CREW XR Framework](https://github.com/CREW-Brussels/CREWXRFramework), you should follow the next steps. It allows using VR Players, at the same time as using settings to record our performance with CIRCA.
 > * Create a new Game Mode in World Overridde, inherited from GameModeBase
 > * Edit it 
 > * Go to: File > Reparent Blueprint > **BP_CIRCA_Record_GameMode**
-> * Player State Class: BP_XR_PlayerState
 
 > ![GameMode_CIRCA_XR-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/e833ea54-4140-4be9-9e6e-984cd542db92)
 
