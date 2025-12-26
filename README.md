@@ -80,7 +80,8 @@ Perform the following steps after having made a recording:
 4. Drag and drop it in your scene
 
 **In details -> add Tag: CIRCA**
-![Screenshot 2025-05-19 163801](https://github.com/user-attachments/assets/c86b4598-94ce-4290-b26d-31715f9ed297)
+
+<img width="1906" height="1153" alt="445195656-c86b4598-94ce-4290-b26d-31715f9ed297" src="https://github.com/user-attachments/assets/c638ac98-8dd4-4612-9153-29ad5018dc5e" />
 
 ![Screenshot 2025-04-03 121817](https://github.com/user-attachments/assets/2e82098c-a103-4028-9920-a51072f6ee17)
 
